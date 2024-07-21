@@ -1,0 +1,1 @@
+r"D:\python project\college-images\college_images\
